@@ -1,9 +1,11 @@
+**This is a fork that uses `@jakuj/bravia-kdl` instead of `@seydx/bravia` for interfacing with the TV. This fixes IRCC on older Sony Bravia KDL models.**
+
 <p align="center">
     <img src="https://github.com/SeydX/homebridge-bravia-tvos/blob/master/homebridge-ui/ui/src/assets/img/logo.png" height="200">
 </p>
 
 
-# homebridge-bravia-tvos v5
+# homebridge-bravia-tvos-kdl v5
 
 [![npm](https://img.shields.io/npm/v/homebridge-bravia-tvos.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-bravia-tvos)
 [![npm](https://img.shields.io/npm/dt/homebridge-bravia-tvos.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-bravia-tvos)

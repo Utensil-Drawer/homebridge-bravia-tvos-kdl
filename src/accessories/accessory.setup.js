@@ -1,6 +1,6 @@
 'use strict';
 
-const Bravia = require('@seydx/bravia');
+const Bravia = require('@jakuj/bravia-kdl');
 const logger = require('../utils/logger');
 const { UUIDgenerate } = require('../utils/utils');
 const Config = require('./accessory.config');

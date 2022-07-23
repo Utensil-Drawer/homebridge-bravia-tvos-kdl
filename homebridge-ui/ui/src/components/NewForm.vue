@@ -109,7 +109,7 @@ export default {
         port: 80,
         auth: '',
         psk: '',
-        appName: '@seydx/bravia',
+        appName: '@jakuj/bravia-kdl',
       },
       loading: true,
     };
@@ -136,7 +136,7 @@ export default {
         port: 80,
         auth: '',
         psk: '',
-        appName: '@seydx/bravia',
+        appName: '@jakuj/bravia-kdl',
         pin: '',
       };
       // Trick to reset/clear native browser form validation state

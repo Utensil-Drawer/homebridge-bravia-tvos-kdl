@@ -1,5 +1,5 @@
 const { HomebridgePluginUiServer, RequestError } = require('@homebridge/plugin-ui-utils');
-const Bravia = require('@seydx/bravia');
+const Bravia = require('@jakuj/bravia-kdl');
 
 const { setTimeoutAsync } = require('../src/utils/utils');
 

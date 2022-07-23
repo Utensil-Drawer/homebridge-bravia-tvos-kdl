@@ -1,11 +1,11 @@
 {
-  "name": "homebridge-bravia-tvos",
+  "name": "homebridge-bravia-tvos-kdl",
   "version": "5.0.8",
-  "description": "Homebridge plugin for Sony Bravia Android TVs",
+  "description": "Homebridge plugin for Sony Bravia KDL TVs",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeydX/homebridge-bravia-tvos.git"
+    "url": "git+https://github.com/Utensil-Drawer/homebridge-bravia-tvos-kdl.git"
   },
   "funding": [
     {
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/SeydX/homebridge-bravia-tvos/issues"
   },
-  "homepage": "https://github.com/SeydX/homebridge-bravia-tvos#readme",
+  "homepage": "https://github.com/Utensil-Drawer/homebridge-bravia-tvos-kdl#readme",
   "keywords": [
     "bravia",
     "player",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@homebridge/plugin-ui-utils": "^0.0.19",
-    "@seydx/bravia": "^2.0.0-beta.21",
+    "@jakuj/bravia-kdl": "^2.0.0",
     "fs-extra": "^10.0.0"
   },
   "devDependencies": {
